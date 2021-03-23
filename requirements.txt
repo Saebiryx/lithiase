@@ -1,7 +1,8 @@
-voila
+voila==0.2.7
+nbconvert==6.0.7
+nbdev==1.1.12
 fastai==2.0.19
 pillow<7
 packaging
 ipywidgets==7.6.3
 fastbook
-nbconvert<6
