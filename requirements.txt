@@ -5,3 +5,5 @@ pillow<7
 packaging
 ipywidgets==7.6.3
 fastbook
+voila-gridstack
+fastcore==1.3.2
